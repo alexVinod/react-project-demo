@@ -1,3 +1,16 @@
+# Follow the Steps to work with Demo Project, work from scratch : 
+1. Download Demo Project
+https://github.com/alexVinod/react-project-demo
+
+2. You Can Rename to project-name
+     e.g :   'react-project-demo'  to  'myproject-demo'
+
+3. Goto cmd 
+    cd myproject-demo
+
+4. npm install node-modules
+5. myproject-demo>   npm start  // localhost:3000
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
